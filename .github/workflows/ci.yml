@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Validate theme JSON
-        run: python3 -c "import json; json.load(open('november.json')); print('november.json: valid')"
+        run: node -e "JSON.parse(require('fs').readFileSync('november.json', 'utf8')); console.log('november.json: valid')"

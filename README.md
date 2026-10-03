@@ -9,7 +9,7 @@
 
 **Warm amber accents on blue-grey — the November palette, ported from [november-vscode](https://github.com/kud/november-vscode).**
 
-<img src="assets/screenshot.png" alt="November theme in opencode: a side-by-side diff with amber accents" />
+<img src="assets/screenshot.png" alt="November theme in opencode: the welcome screen and prompt" />
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Palette](#-palette) • [Development](#-development)
 
@@ -25,7 +25,7 @@
 - 📄 **One file** — the whole theme is `november.json`; nothing to build, no dependencies
 
 <div align="center">
-<img src="assets/screenshot-welcome.png" alt="November theme in opencode: the welcome screen and prompt" />
+<img src="assets/screenshot-diff.png" alt="November theme in opencode: a side-by-side diff with amber accents" />
 </div>
 
 ## 🚀 Quick Start

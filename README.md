@@ -9,6 +9,8 @@
 
 **Warm amber accents on blue-grey — the November palette, ported from [november-vscode](https://github.com/kud/november-vscode).**
 
+<img src="assets/screenshot.png" alt="November theme in opencode showing a diff with amber accents" />
+
 [Features](#-features) • [Quick Start](#-quick-start) • [Palette](#-palette) • [Development](#-development)
 
 </div>
